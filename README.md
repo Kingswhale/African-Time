@@ -1,6 +1,6 @@
 # African Time
 
-An African Countries Time Flutter application.
+An African Countries Time Flutter App.
 
 ## Getting Started
 
