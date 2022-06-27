@@ -59,7 +59,7 @@ class _HomeState extends State<Home> {
                       size: 30
                     ),
                     label: Text(
-                      'Edit Location',
+                      'Edit Your Location',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20.0
